@@ -1,0 +1,18 @@
+file_name,manufacturer,model,inferred_capacity_t,estimated_page_count,file_size_bytes
+Grove_GMK4100_Load_Charts.pdf,Grove,GMK4100,100.0,32,1301233
+Grove_GMK5100_Load_Charts.pdf,Grove,GMK5100,100.0,28,1118581
+Grove_GMK5220_Load_Charts.pdf,Grove,GMK5220,20.0,36,1799945
+Grove_GMK5250L_Load_Charts.pdf,Grove,GMK5250L,50.0,48,2555168
+Liebherr_ LTM_1090_Load_Charts.pdf,Liebherr,LTM 1090,1090.0,14,14488846
+Liebherr_ LTM_11200_Load_Charts.pdf,Liebherr,LTM 11200,200.0,60,5825427
+Liebherr_ LTM_1220_52_Load_Charts.pdf,Liebherr,LTM 1220 52,1220.0,72,2068841
+Liebherr_ LTM_1250_Load_Charts.pdf,Liebherr,LTM 1250,1250.0,80,9766258
+Liebherr_LG1750_Load_Charts.pdf,Liebherr,LG1750,50.0,84,6400331
+Liebherr_LTM_1080_Load_Charts.pdf,Liebherr,LTM 1080,1080.0,14,310217
+Liebherr_LTM_1090_41_Load_Charts.pdf,Liebherr,LTM 1090 41,1090.0,22,618246
+Tadano_ATF220G_Load_Charts.pdf,Tadano,ATF220G,220.0,48,10258713
+Tadano_Demag_AC_1000-9_Load_Charts.pdf,Tadano,Demag AC 1000-9,1000.0,116,25611391
+Tadano_Demag_CC3800_Load_Charts.pdf,Tadano,Demag CC3800,800.0,200,9633480
+Terex_AC350_Load_Charts.pdf,Terex,AC350,350.0,70,4830544
+Terex_AC500_Load_Charts.pdf,Terex,AC500,500.0,58,3966422
+Terex_Demag_CC2800_Load_Charts.pdf,Terex,Demag CC2800,800.0,71,5112600
